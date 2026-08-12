@@ -28,9 +28,7 @@ Open http://localhost:5173/flashykards/
 npm run build
 ```
 
-Push to `main` to deploy via GitHub Actions to GitHub Pages. Enable Pages from **GitHub Actions** in repo settings.
-
-Set repository name to `flashykards` or update `base` in [`vite.config.ts`](vite.config.ts).
+Push to `main` to deploy via GitHub Actions to GitHub Pages. Enable Pages from **GitHub Actions** in repo settings. The `base` in [`vite.config.ts`](vite.config.ts) must match the repository name (`FlashyKards`).
 
 ## Import formats
 
