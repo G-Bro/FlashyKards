@@ -1,0 +1,32 @@
+{
+  "name": "flashykards",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "build:manifest": "tsx scripts/generate-manifest.ts",
+    "test:gw-parser": "tsx scripts/test-gw-parser.ts",
+    "test:grade-answer": "tsx scripts/test-grade-answer.ts",
+    "test:unit-display": "tsx scripts/test-unit-display.ts",
+    "test:unit-match": "tsx scripts/test-unit-match.ts",
+    "test:aeldari-legacy": "tsx scripts/test-aeldari-legacy.ts"
+  },
+  "dependencies": {
+    "html-to-image": "^1.11.13",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.8",
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.5",
+    "@vitejs/plugin-react": "^4.5.2",
+    "tailwindcss": "^4.1.8",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}

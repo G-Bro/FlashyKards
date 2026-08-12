@@ -1,0 +1,19 @@
++++++++++++++++++++++++++++++++++++++++++++++++
++ FACTION KEYWORD: Xenos - Aeldari
++ DETACHMENT: Armoured Warhost (Skilled Crews)
++ TOTAL ARMY POINTS: 2575pts
++
++ WARLORD: Char1: The Yncarne
++ ENHANCEMENT: 
++ NUMBER OF UNITS: 24
++ SECONDARY: - Bring It Down: (4x2) - Assassination: 5 Characters
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Char2: 1x Autarch (85 pts): Star Glaive, Shuriken Pistol
+Char3: 1x Farseer (70 pts): Eldritch Storm, Shuriken Pistol, Witchblade
+Char4: 1x Spiritseer (65 pts): Shuriken Pistol, Witch Staff
+Char1: 1x The Yncarne (260 pts): Warlord, Swirling soul energy, Vilith-zhar
+Char5: 1x Warlock (45 pts): Destructor, Shuriken Pistol, Witchblade
+
+10x Corsair Voidreavers (110 pts)
+11x Guardian Defenders (100 pts)
